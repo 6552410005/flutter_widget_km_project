@@ -1,16 +1,7 @@
-# flutter_widget_kn_project
+# flutter_widget_km_project แม่แบบ UI
 
-A new Flutter project.
+Created By : Kanchai Singkhot DTI-SAU
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## About
+if show "the message received from the daemon indicates that the daemon has disappeared." whie building check your computer memory 16GB+ recommend.
+ถ้าระหว่าง build ขึ้นคำว่า the message received from the daemon indicates that the daemon has disappeared. ให้เช็คแรมว่าเต็มไหม แนะนำว่าให้ใช้ 16GB ขึ้นไป
